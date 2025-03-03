@@ -1,32 +1,35 @@
-<h1 align="center">clash官方镜像下载（终结篇）</h1>
+<h1 align="center">clashX官方镜像下载（终结篇）</h1>
 
 ![Android](https://img.shields.io/badge/安卓-Android-brightgreen)
 ![Windows](https://img.shields.io/badge/微软-Windows-blue)
 ![MacOS](https://img.shields.io/badge/OS-MacOS-lightgrey)
 ![iOS](https://img.shields.io/badge/苹果-iOS-red)
-![Linux](https://img.shields.io/badge/Linux-Linux-red)
-> ****最后更新时间：**** 2025年03月03日
 
-<br><br><br>
-- [Android 代理工具](#Android代理工具)
+*探索技术 · 分享经验 · 记录成长*
 
-- [Windows 代理工具](#Windows代理工具)
+*最后更新时间： `2025年03月03日`*
 
-- [Mac 代理工具](#MacOS代理工具)
+<br>
 
-- [iOS 代理工具](#iOS代理工具)
+## 🚀 专题外链 | Topic link  
+#### [ clash官方镜像下载（终结篇）](https://github.com/wangzai69/clash)
 
-- [Linux 代理工具](#Linux代理工具)
+<br>
+<br>
 
-- [精选节点（支持全部代理工具）](#-精选节点)
+## 📂 本页目录 | Table of Contents  
+- [ Android 代理工具](#Android-代理工具)  
+- [ Windows 代理工具](#Windows-代理工具)
+- [ MacOS 代理工具](#MacOS-代理工具)
+- [ iOS 代理工具](#iOS-代理工具)
+- [ Linux 代理工具](#Linux-代理工具)
+- [ 关于我 | About Me ](#-关于我--about-me)  
+- [ 联系方式 | Contact](#-联系方式--contact)  
 
-<br><br><br>
+<br>
+<br>
 
----
-
-<br><br><br>
-<br><br><br>
-## Android代理工具
+### Android 代理工具
 | 名称     | 描述       | 下载       |
 |----------|------------|------------|
 | Clash        | 作者已删库        | [备份下载](https://dl.haojichang.com/apps/clash_for_android/cfa-2.5.12-premium-universal-release.apk) |
@@ -41,8 +44,10 @@
 | FlClash      |  v8a             | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-android-arm64-v8a.apk) |
 | FlClash      |  v7a            | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-android-armeabi-v7a.apk) |
 
-<br><br><br>
-## Windows代理工具
+<br>
+<br>
+
+### Windows 代理工具
 | 名称     | 描述       | 安装       |
 |----------|------------|------------|
 | Clash                  | 作者已删库  64位                | [备份下载](https://dl.haojichang.com/apps/clash_for_windows/Clash.for.Windows.Setup.0.20.39.arm64.exe) |
@@ -56,8 +61,10 @@
 | v2rayN   | 64位      | [镜像下载](https://github.com/2dust/v2rayN/releases/download/6.60/v2rayN-With-Core.zip) |
 | v2rayN   | 32位      | [镜像下载](https://github.com/2dust/v2rayN/releases/download/6.60/v2rayN-32.zip) |
 
-<br><br><br>
-## MacOS代理工具
+<br>
+<br>
+
+### MacOS 代理工具
 | 代理工具名称     | 描述       | 安装       |
 |----------|------------|------------|
 | Clash X               | 作者已删库               | [备份下载](https://dl.haojichang.com/apps/ClashX/ClashX.dmg)
@@ -72,16 +79,20 @@
 | Quantumult X   | Mac App Store非大陆      | [镜像下载](https://apps.apple.com/us/app/quantumult-x/id1443988620) |
 | Shadowrocket   | Mac App Store非大陆      | [镜像下载](https://apps.apple.com/us/app/shadowrocket/id932747118) |
 
-<br><br><br>
-## iOS代理工具
+<br>
+<br>
+
+### iOS 代理工具
 | 名称     | 描述       | 安装       |
 |----------|------------|------------|
 | Quantumult X   | Mac App Store非大陆id      | [镜像下载](https://apps.apple.com/us/app/quantumult-x/id1443988620) |
 | Shadowrocket   | Mac App Store非大陆id      | [镜像下载](https://apps.apple.com/us/app/shadowrocket/id932747118) |
 | Stash   | Mac App Store非大陆id      | [镜像下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) |
 
-<br><br><br>
-## Linux代理工具
+<br>
+<br>
+
+### Linux 代理工具
 | 名称     | 描述       | 安装       |
 |----------|------------|------------|
 | Clash Verge       | 64位           | [镜像下载](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/clash-verge_1.3.8_amd64.deb) |
@@ -93,10 +104,12 @@
 | FlClash   | deb      | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-linux-amd64.deb) |
 | FlClash   | rpm      | [镜像下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-linux-amd64.rpm) |
 
-<br><br><br>
-### 📖 精选节点
+<br>
+<br>
+
+### 📖 精选节点 | Featured nodes
 MSYLL是一家成立于2020年稳定机场，性价比很高，节点采用的是SS协议，属于中高端质量提供稳定的网络加速服务.所有套餐均不设限速，也不限制设备数量，并稳定解锁ChatGPT、Netflix、Disney+、动画疯等等媒体。
-### [🚀MSYLL最新官网](https://yq.yq3566.top/#/register?code=kMLKFXMq)
+### [MSYLL最新官网](https://yq.yq3566.top/#/register?code=kMLKFXMq)
 
 | 套餐 | 时长 | 价格 | 流量 |
 |------|------|------|------|
@@ -104,4 +117,25 @@ MSYLL是一家成立于2020年稳定机场，性价比很高，节点采用的�
 | 升级 | 1个月 |15.88 |256GB |
 | 招牌 | 1个月 |10.88 |128GB |
 | 迷你 | 1个月 |7.88  |50GB  |
+
 <br>
+<br>
+
+### 📌 关于我 | About Me  
+💻 **全栈开发者** / **技术爱好者** / **开源贡献者**  
+🚀 关注前沿技术，致力于高效、优雅的代码实现  
+
+<br>
+<br>
+
+### 📬 联系方式 | Contact  
+📧 **Email**: [your.email@example.com](mailto:your.email@example.com)  
+🐙 **GitHub**: [@your-github](https://github.com/your-github)  
+🌐 **个人网站**: [your-website.com](https://your-website.com)  
+
+📢 **如果你喜欢这个博客，请 ⭐Star 支持！**  
+
+<br>
+<br>
+
+
