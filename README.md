@@ -1,4 +1,4 @@
-<h1 align="center">2025 精选机场（终结篇）实时更新</h1>
+<h1 align="center">2025精选翻墙机场科学上网梯子实时更新（终结篇）</h1>
 
 ![Android](https://img.shields.io/badge/安卓-Android-brightgreen)
 ![Windows](https://img.shields.io/badge/微软-Windows-blue)
@@ -21,7 +21,8 @@
 <br>
 
 ## 🚀 专题外链 | Topic link  
-#### [ clash官方镜像下载（终结篇）](https://github.com/wangzai69/clash)
+#### [2025clash官方镜像下载实时更新（终结篇）](https://github.com/wangzai69/clash)
+#### [2025精选翻墙机场科学上网梯子实时更新（终结篇）](https://github.com/wangzai69/clash)
 
 <br>
 <br>
