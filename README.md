@@ -20,14 +20,14 @@
 
 <br>
 
-## 🚀 专题外链 | Topic link  
+## 📖 专题外链 | Topic link  
 #### [2025clash官方镜像下载实时更新（终结篇）](https://github.com/wangzai69/clash)
 #### [2025精选翻墙机场科学上网梯子节点-实时更新（终结篇）](https://github.com/wangzai69/vpn)
 
 <br>
 <br>
 
-### 📖 精选节点 | Featured nodes
+## 🚀 精选机场 | Featured nodes
 #### [MSYLL最新官网](https://yq.yq3566.top/#/register?code=kMLKFXMq)
 MSYLL成立于2020年，是一家稳定的精品专线机场，使用高端优质的BGP出口不仅提升速度并搭载大陆三网主干线作为入口且智能负载优化下有极佳的网上冲浪体验，使用大带宽服务器保障了晚高峰节点速率，所有套餐均不设限速不限制设备数量，并稳定解锁ChatGPT、Netflix、Disney+、动画疯等等主媒体。
 
