@@ -57,7 +57,7 @@ WgetCloud全球加速是一家主打稳定机场服务商，采用国内 BGP 服
 <br>
 
 ## 🚀 如何使用节点图文教程
-##### 安卓手机以clash为例
+#### 安卓手机以clash为例
 ##### 先下载clash → [2025官方clash镜像下载（终结篇）实时更新](https://github.com/wangzai69/clash)
 - 图1：购买订阅后在 `首页` 选择 `一键订阅`
 - 图2：选择 `复制订阅地址`
@@ -75,7 +75,7 @@ WgetCloud全球加速是一家主打稳定机场服务商，采用国内 BGP 服
 
 <br>
 
-##### 苹果手机以shadowrocket为例
+#### 苹果手机以shadowrocket为例
 ##### 先下载shadowrocket → [2025官方shadowrocket小火箭免费下载（终结篇）实时更新](https://github.com/wangzai69/shadowrocket)
 - 图1：购买订阅后，在本站首页 `导出订阅`
 - 图2：选择 `导入到 Shadowrocket`
