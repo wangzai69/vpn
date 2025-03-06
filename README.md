@@ -60,6 +60,9 @@ WgetCloud全球加速是一家主打稳定机场服务商，采用国内 BGP 服
 ##### 一般节点供应商官网都有提供教程，如果没有就下载节点专用的代理工具
 ##### iso、macOS → [2025官方shadowrocket小火箭免费下载（终结篇）实时更新](https://github.com/wangzai69/shadowrocket)
 ##### Android、Windows → [2025官方clash镜像下载（终结篇）实时更新](https://github.com/wangzai69/clash)
+
+<br>
+
 ##### 安卓手机以clash为例，下载后如何在购买节点的官网导入到clash中
 - 图1：购买订阅后在 `首页` 选择 `一键订阅`
 - 图2：选择 `复制订阅地址`
@@ -74,6 +77,8 @@ WgetCloud全球加速是一家主打稳定机场服务商，采用国内 BGP 服
 - 图8：最后<code>运行订阅</code>即可联网
 
 ![图片描述](https://github.com/wangzai69/vpn/blob/main/images/26.jpg?raw=true)
+
+<br>
 
 ##### 苹果手机以shadowrocket为例，下载后如何在购买节点的官网导入到shadowrocket中
 - 图1：购买订阅后，在本站首页 `导出订阅`
