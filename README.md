@@ -67,7 +67,7 @@ WgetCloud全球加速是一家主打稳定机场服务商，采用国内 BGP 服
 - 图4：将复制的订阅粘贴到 `URL` 中，自动更新填写 `1440分钟`
 <picture>
   <source media="(max-width: 980px)" srcset="https://github.com/wangzai69/vpn/blob/main/images/1.jpg?raw=true" style="width: 100%;">
-  <img src="https://github.com/wangzai69/shadowrocket/blob/main/images/1.jpg?raw=true" style="width: 50%; display: block; margin: auto;">
+  <img src="https://github.com/wangzai69/vpn/blob/main/images/1.jpg?raw=true" style="width: 50%; display: block; margin: auto;">
 </picture>
 
 <br>
@@ -78,7 +78,7 @@ WgetCloud全球加速是一家主打稳定机场服务商，采用国内 BGP 服
 - 图8：最后<code>运行订阅</code>即可联网
 <picture>
   <source media="(max-width: 980px)" srcset="https://github.com/wangzai69/vpn/blob/main/images/2.jpg?raw=true" style="width: 100%;">
-  <img src="https://github.com/wangzai69/shadowrocket/blob/main/images/2.jpg?raw=true" style="width: 50%; display: block; margin: auto;">
+  <img src="https://github.com/wangzai69/vpn/main/images/2.jpg?raw=true" style="width: 50%; display: block; margin: auto;">
 </picture>
 
 ##### 苹果手机以shadowrocket为例，下载后如何在购买节点的官网导入到shadowrocket中
@@ -88,7 +88,7 @@ WgetCloud全球加速是一家主打稳定机场服务商，采用国内 BGP 服
 - 图4：选择 `允许` 即可联网
 <picture>
   <source media="(max-width: 980px)" srcset="https://github.com/wangzai69/vpn/blob/main/images/3.jpg?raw=true" style="width: 100%;">
-  <img src="https://github.com/wangzai69/shadowrocket/blob/main/images/2.jpg?raw=true" style="width: 50%; display: block; margin: auto;">
+  <img src="https://github.com/wangzai69/vpn/blob/main/images/2.jpg?raw=true" style="width: 50%; display: block; margin: auto;">
 </picture>
 
 <br>
