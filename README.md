@@ -66,12 +66,14 @@ WgetCloud全球加速是一家主打稳定机场服务商，采用国内 BGP 服
 - 图2：选择 `复制订阅地址`
 - 图3：打开 `Clash` 选择 `配置`
 - 图4：将复制的订阅粘贴到 `URL` 中，自动更新填写 `1440分钟`
+
 ![图片描述](https://github.com/wangzai69/vpn/blob/main/images/16.jpg?raw=true)
 
 - 图5：右上角<code>保存</code>
 - 图6：再次选择<code>配置</code>
 - 图7：选择刚刚保存的<code>订阅</code>
 - 图8：最后<code>运行订阅</code>即可联网
+
 ![图片描述](https://github.com/wangzai69/vpn/blob/main/images/26.jpg?raw=true)
 
 <br><br>
