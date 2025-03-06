@@ -65,7 +65,10 @@ WgetCloud全球加速是一家主打稳定机场服务商，采用国内 BGP 服
 - 图2：选择 `复制订阅地址`
 - 图3：打开 `Clash` 选择 `配置`
 - 图4：将复制的订阅粘贴到 `URL` 中，自动更新填写 `1440分钟`
-<img src="./images/android/1.jpg">
+<picture>
+  <source media="(max-width: 980px)" srcset="https://github.com/wangzai69/vpn/blob/main/images/1.jpg?raw=true" style="width: 100%;">
+  <img src="https://github.com/wangzai69/shadowrocket/blob/main/images/22.jpg?raw=true" style="width: 50%; display: block; margin: auto;">
+</picture>
 
 <br>
 
@@ -73,14 +76,20 @@ WgetCloud全球加速是一家主打稳定机场服务商，采用国内 BGP 服
 - 图6：再次选择<code>配置</code>
 - 图7：选择刚刚保存的<code>订阅</code>
 - 图8：最后<code>运行订阅</code>即可联网
-<img src="./images/android/2.jpg">
+<picture>
+  <source media="(max-width: 980px)" srcset="https://github.com/wangzai69/vpn/blob/main/images/2.jpg?raw=true" style="width: 100%;">
+  <img src="https://github.com/wangzai69/shadowrocket/blob/main/images/22.jpg?raw=true" style="width: 50%; display: block; margin: auto;">
+</picture>
 
 ##### 苹果手机以shadowrocket为例，下载后如何在购买节点的官网导入到shadowrocket中
 - 图1：购买订阅后，在本站首页 `导出订阅`
 - 图2：选择 `导入到 Shadowrocket`
 - 图3：自动跳转到Shadowrocket，开启代理开关时弹出对话框选 `好`
 - 图4：选择 `允许` 即可联网
-<img src="./images/ios/3.jpg" width="100%">
+<picture>
+  <source media="(max-width: 980px)" srcset="https://github.com/wangzai69/vpn/blob/main/images/3.jpg?raw=true" style="width: 100%;">
+  <img src="https://github.com/wangzai69/shadowrocket/blob/main/images/22.jpg?raw=true" style="width: 50%; display: block; margin: auto;">
+</picture>
 
 <br>
 
