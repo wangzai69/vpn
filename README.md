@@ -60,6 +60,27 @@ WgetCloud全球加速是一家主打稳定机场服务商，采用国内 BGP 服
 ##### 一般节点供应商官网都有提供教程，如果没有就下载节点专用的代理工具
 ##### iso、macOS → [2025官方shadowrocket小火箭免费下载（终结篇）实时更新](https://github.com/wangzai69/shadowrocket)
 ##### Android、Windows → [2025官方clash镜像下载（终结篇）实时更新](https://github.com/wangzai69/clash)
+##### 安卓手机以clash为例，下载后如何在购买节点的官网导入到clash中
+- 图1：购买订阅后在 `首页` 选择 `一键订阅`
+- 图2：选择 `复制订阅地址`
+- 图3：打开 `Clash` 选择 `配置`
+- 图4：将复制的订阅粘贴到 `URL` 中，自动更新填写 `1440分钟`
+<img src="./images/android/1.jpg">
+
+<br>
+
+- 图5：右上角<code>保存</code>
+- 图6：再次选择<code>配置</code>
+- 图7：选择刚刚保存的<code>订阅</code>
+- 图8：最后<code>运行订阅</code>即可联网
+<img src="./images/android/2.jpg">
+
+##### 苹果手机以shadowrocket为例，下载后如何在购买节点的官网导入到shadowrocket中
+- 图1：购买订阅后，在本站首页 `导出订阅`
+- 图2：选择 `导入到 Shadowrocket`
+- 图3：自动跳转到Shadowrocket，开启代理开关时弹出对话框选 `好`
+- 图4：选择 `允许` 即可联网
+<img src="./images/ios/3.jpg" width="100%">
 
 <br>
 
