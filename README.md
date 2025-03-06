@@ -54,29 +54,33 @@ WgetCloud全球加速是一家主打稳定机场服务商，采用国内 BGP 服
 | 优质 | 1个月 |69 |160G |
 | 精品 | 1个月 |79 |180G |
 
-<br>
+<br><br>
 
 ## 🚀 如何使用节点图文教程
 #### Android、Windows手机以clash为例
 ##### 先下载clash → [2025官方clash镜像下载（终结篇）实时更新](https://github.com/wangzai69/clash)
+
+<br>
+
 - 图1：购买订阅后在 `首页` 选择 `一键订阅`
 - 图2：选择 `复制订阅地址`
 - 图3：打开 `Clash` 选择 `配置`
 - 图4：将复制的订阅粘贴到 `URL` 中，自动更新填写 `1440分钟`
-
 ![图片描述](https://github.com/wangzai69/vpn/blob/main/images/16.jpg?raw=true)
 
 - 图5：右上角<code>保存</code>
 - 图6：再次选择<code>配置</code>
 - 图7：选择刚刚保存的<code>订阅</code>
 - 图8：最后<code>运行订阅</code>即可联网
-
 ![图片描述](https://github.com/wangzai69/vpn/blob/main/images/26.jpg?raw=true)
 
-<br>
+<br><br>
 
 #### iOS、macOS以shadowrocket为例
 ##### 先下载shadowrocket → [2025官方shadowrocket小火箭免费下载（终结篇）实时更新](https://github.com/wangzai69/shadowrocket)
+
+<br>
+
 - 图1：购买订阅后，在本站首页 `导出订阅`
 - 图2：选择 `导入到 Shadowrocket`
 - 图3：自动跳转到Shadowrocket，开启代理开关时弹出对话框选 `好`
