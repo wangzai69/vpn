@@ -59,7 +59,7 @@ WgetCloud全球加速是一家主打稳定机场，采用国内 BGP 服务器接
 <br>
 
 #### [Amy 最新官网](https://www.amytele.net)
-Amy 机场，全称 AmyTelecom ，是一家提供优质专线节点的翻墙机场，属于 Nexitally 奶昔分站，IEPL 专线，套餐相比奶昔流量更少但订阅价格也相对便宜一些，可以称之为「轻量版奶昔机场」or「青春版奶昔机场」， Shadowsocks 节点，Netflix 、Disney+ 流媒体平台解锁稳定性比较不错。
+Amy 全称 AmyTelecom ，是一家提供优质专线节点的翻墙机场，属于 [奶昔](https://nexitally.com) 分站，IEPL 专线，套餐相比奶昔流量更少但订阅价格也相对便宜一些，没什么好介绍的众所周知奶昔是VPN界的天花板，那么Amy也差不到哪里去。 ss 节点 Netflix 、Disney+ 流媒体平台解锁稳定性比较不错。
 - [🚀如何使用节点图文教程](#-如何使用节点图文教程)
 
 | 套餐 | 时长 | 价格 | 流量 |
