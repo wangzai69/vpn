@@ -30,7 +30,7 @@
 
 <br>
 
-## 🚀 精选VPN | Featured nodes
+## 🚀 精选VPN | Featured VPN
 #### [MSYLL最新官网](https://yq.yq3566.top/#/register?code=WYvHUyx6)
 MSYLL成立于2022年，是一家稳定的精品专线机场，使用高端优质的BGP出口不仅提升速度并搭载大陆三网主干线作为入口且智能负载优化下有极佳的网上冲浪体验，使用大带宽服务器保障了晚高峰节点速率，所有套餐均不设限速不限制设备数量，并稳定解锁ChatGPT、Netflix、Disney+、动画疯等等主媒体。
 - [🚀如何使用节点图文教程](#-如何使用节点图文教程)
