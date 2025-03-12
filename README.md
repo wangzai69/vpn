@@ -23,7 +23,7 @@ vpn推荐 vpn排行 梯子推荐 机场推荐 加速器推荐
 
 ## 📖 经典外链 | 实时更新
 #### [2025精选翻墙梯子节点机场vpn推荐（终结篇）实时更新](https://github.com/wangzai69/vpn)
-#### [2025官方clash等节点代理工具镜像下载（终结篇）实时更新](https://github.com/wangzai69/clash)
+#### [2025镜像下载安装clash翻墙软件（终结篇）实时更新](https://github.com/wangzai69/app)
 #### [2025官方shadowrocket小火箭免费下载（终结篇）实时更新](https://github.com/wangzai69/shadowrocket)
 #### [2025小火箭、clash详细图文使用教程（终结篇）实时更新](https://github.com/wangzai69/wiki)
 #### [2025官方谷歌商店 GooglePlay服务框架（终结篇）实时更新](https://github.com/wangzai69/GooglePlay)
