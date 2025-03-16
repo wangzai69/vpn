@@ -11,7 +11,7 @@
 |[翻墙软件如何使用详细图文教程](https://github.com/wangzai69/wiki)               |
 |[官方谷歌框架GooglePlay商店服务](https://github.com/wangzai69/GooglePlay)      |
 |[最新免拔卡TikTok苹果安卓教程](https://github.com/wangzai69/tiktok)             |
-|[推特Twitter下载账号解除敏感](https://github.com/wangzai69/Twitter)             |
+|[推特Twitter下载账号并解除敏感](https://github.com/wangzai69/Twitter)             |
 
 <br>
 
