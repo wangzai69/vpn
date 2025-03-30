@@ -20,7 +20,7 @@
 
 <br><br>
 
-##  正文（网址若无法打开请关闭代理）
+##  正文
 <br>
 
 #### [MSYLL 最新官网](https://cdn.122677.top/?path=register&code=WYvHUyx6)
